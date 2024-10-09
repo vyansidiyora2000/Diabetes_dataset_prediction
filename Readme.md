@@ -99,7 +99,7 @@ plt.show()
 ### 4. Model Accuracy
 Once the features have been explored and analyzed, the next step would involve applying machine learning models for predicting diabetes. The models could include:
 
-The Accuracy is: 0.7597402597402597
+The Accuracy is: 74.68%
 
 ## YouTube Explanation Link:
 
