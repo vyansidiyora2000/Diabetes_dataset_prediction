@@ -60,6 +60,18 @@ EDA is performed to understand the data distribution and identify potential patt
 print(f"Dataset Dimensions: {d_diabetes.shape}")
 print(f"Outcome Distribution:\n{d_diabetes['Outcome'].value_counts()}")
 ```
+
+![Correlation Heatmap](https://github.com/vyansidiyora2000/Diabetes_dataset_prediction/blob/main/Assests/correlation.png)
+
+### Count Plot
+This is the count plot for age, glucose levels, and other key features:
+
+![Count Plot](https://github.com/vyansidiyora2000/Diabetes_dataset_prediction/blob/main/Assests/Screenshot%202024-10-09%20141830.png)
+
+## Dashboard
+The dashboard generated from the analysis:
+
+![Dashboard](relative/path/to/dashboard.png)
 ### 3. Feature Exploration
 
 Each feature is analyzed for its distribution, spread, and possible impact on diabetes prediction. This analysis may involve:
