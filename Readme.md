@@ -71,7 +71,7 @@ This is the count plot for age, glucose levels, and other key features:
 ## Dashboard
 The dashboard generated from the analysis:
 
-![Dashboard](relative/path/to/dashboard.png)
+![Dashboard](https://github.com/vyansidiyora2000/Diabetes_dataset_prediction/blob/main/Assests/Screenshot%202024-10-09%20142509.png)
 ### 3. Feature Exploration
 
 Each feature is analyzed for its distribution, spread, and possible impact on diabetes prediction. This analysis may involve:
